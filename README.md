@@ -4,7 +4,7 @@
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plode-v" alt="plode-v" /></a> </p>
 
-- 🔭 I’m currently working on [a habit tracker](https://github.com/plode-v/habit-breaker)
+- 🔭 I’m currently working on [All-in-One Visual Analyzer](https://github.com/plode-v/vizofy-app)
 
 - 🌱 I’m currently learning **Algorithm & Data Structure**
 
